@@ -1,6 +1,5 @@
 ---
 title: Welcome to Quartz
 ---
+This is a [[test vault]] 
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
