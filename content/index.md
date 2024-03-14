@@ -3,7 +3,7 @@ title: U.S. Government AI Project Tracker
 ---
 | Department                                           | Projects |
 | ---------------------------------------------------- | -------- |
-| Department of State (DOS)                            |          |
+| [[Department of State (DOS)]]                        | 31       |
 | Department of the Treasury (Treasury)                |          |
 | Department of Justice (DOJ)                          |          |
 | Department of the Interior (DOI)                     |          |
